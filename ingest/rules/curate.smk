@@ -34,6 +34,9 @@ rule curate:
         sequences_ndjson="data/ncbi.ndjson",
         geolocation_rules=resolve_config_path(config["curate"]["local_geolocation_rules"]),
         annotations=resolve_config_path(config["curate"]["annotations"]),
+        manual_mapping="defaults/annotated_hosts.tsv",
+        manual_mapping_org="defaults/organism_map.tsv",
+        manual_mapping_host="defaults/long_host.tsv",
     output:
         metadata="data/all_metadata.tsv",
         sequences="results/sequences.fasta",
@@ -84,6 +87,25 @@ rule curate:
                 --abbr-authors-field {params.abbr_authors_field:q} \
             | augur curate apply-geolocation-rules \
                 --geolocation-rules {input.geolocation_rules:q} \
+            | jq -c ' . + {{ "note": ""}}' \
+            | ./scripts/transform-new-fields \
+                --map-tsv {input.manual_mapping} \
+                --map-id host \
+                --metadata-id host \
+                --map-fields host_category host_genus \
+                --pass-through true \
+            | ./scripts/transform-new-fields \
+                --map-tsv {input.manual_mapping_org} \
+                --map-id organism \
+                --metadata-id organism \
+                --map-fields group \
+                --pass-through true \
+            | ./scripts/transform-new-fields \
+                --map-tsv {input.manual_mapping_host} \
+                --map-id host_genus \
+                --metadata-id host_genus \
+                --map-fields host_class host_order host_family host_broad_group \
+                --pass-through true \
             | augur curate apply-record-annotations \
                 --annotations {input.annotations:q} \
                 --id-field {params.annotations_id:q} \

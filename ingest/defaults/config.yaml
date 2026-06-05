@@ -113,6 +113,12 @@ curate:
     "location",
     "length",
     "host",
+    "host_category",
+    "host_genus",
+    "host_class",
+    "host_order",
+    "host_family",
+    "host_broad_group",
     "is_lab_host",
     "date_released",
     "date_updated",
@@ -121,5 +127,7 @@ curate:
     "full_authors",
     "institution",
     "url",
-    "organism"
+    "note",
+    "organism",
+    "group"
   ]
