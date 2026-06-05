@@ -4,11 +4,8 @@
 # Define optional config parameters with their default values here so that users
 # do not have to dig through the workflows to figure out the default values
 
-# Required to fetch from Entrez
-entrez_search_term: ""
-
 # Required to fetch from NCBI Datasets
-ncbi_taxon_id: ""
+ncbi_taxon_id: "39733"
 
 # The list of NCBI Datasets fields to include from NCBI Datasets output
 # These need to be the "mnemonics" of the NCBI Datasets fields, see docs for full list of fields
@@ -32,6 +29,7 @@ ncbi_datasets_fields:
   - submitter-names
   - submitter-affiliation
   - submitter-country
+  - virus-name
 
 # Config parameters related to the curate pipeline
 curate:
@@ -61,6 +59,7 @@ curate:
     submitter-names: full_authors
     submitter-affiliation: institution
     submitter-country: submitter_country
+    virus-name: organism
   # Standardized strain name regex
   # Currently accepts any characters because we do not have a clear standard for strain names across pathogens
   strain_regex: "^.+$"
@@ -121,5 +120,6 @@ curate:
     "authors",
     "full_authors",
     "institution",
-    "url"
+    "url",
+    "organism"
   ]
