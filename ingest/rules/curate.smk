@@ -68,6 +68,7 @@ rule curate:
             | augur curate transform-strain-name \
                 --strain-regex {params.strain_regex:q} \
                 --backup-fields {params.strain_backup_fields:q} \
+            | sed 's: TO [1-9][0-9][0-9][0-9]::' \
             | augur curate format-dates \
                 --date-fields {params.date_fields:q} \
                 --expected-date-formats {params.expected_date_formats:q} \
