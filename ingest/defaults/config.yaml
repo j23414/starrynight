@@ -129,5 +129,6 @@ curate:
     "url",
     "note",
     "organism",
-    "group"
+    "group",
+    "blast_species"
   ]

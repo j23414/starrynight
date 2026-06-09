@@ -87,7 +87,7 @@ rule curate:
                 --abbr-authors-field {params.abbr_authors_field:q} \
             | augur curate apply-geolocation-rules \
                 --geolocation-rules {input.geolocation_rules:q} \
-            | jq -c ' . + {{ "note": ""}}' \
+            | jq -c ' . + {{ "note": "", "blast_species": ""}}' \
             | ./scripts/transform-new-fields \
                 --map-tsv {input.manual_mapping} \
                 --map-id host \
