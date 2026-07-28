@@ -12,6 +12,7 @@ Trachypithecus	Mammalia	Primates	Cercopithecidae	primate
 Chlorocebus	Mammalia	Primates	Cercopithecidae	primate
 Ateles	Mammalia	Primates	Atelidae	primate
 Acinonyx	Mammalia	Carnivora	Felidae	carnivore
+Sarcophilus	Mammalia	Carnivora	Felidae	carnivore
 Caracal	Mammalia	Carnivora	Felidae	carnivore
 Felis	Mammalia	Carnivora	Felidae	carnivore
 Leopardus	Mammalia	Carnivora	Felidae	carnivore
@@ -34,6 +35,7 @@ Orcinus	Mammalia	Cetacea	Delphinidae	marine_mammal
 Tursiops	Mammalia	Cetacea	Delphinidae	marine_mammal
 Balaenoptera	Mammalia	Cetacea	Balaenopteridae	marine_mammal
 Bos	Mammalia	Artiodactyla	Bovidae	ungulate
+Bovidae	Mammalia	Artiodactyla	Bovidae	ungulate
 Bubalus	Mammalia	Artiodactyla	Bovidae	ungulate
 Budorcas	Mammalia	Artiodactyla	Bovidae	ungulate
 Capra	Mammalia	Artiodactyla	Bovidae	ungulate
@@ -87,6 +89,7 @@ Hystricidae	Mammalia	Rodentia	Hystricidae	rodent
 Cavia	Mammalia	Rodentia	Caviidae	rodent
 Myocastor	Mammalia	Rodentia	Myocastoridae	rodent
 Coleura	Mammalia	Chiroptera	Emballonuridae	bat
+Chiroptera	Mammalia	Chiroptera	Emballonuridae	bat
 Myotis	Mammalia	Chiroptera	Vespertilionidae	bat
 Pteropus	Mammalia	Chiroptera	Pteropodidae	bat
 Rousettus	Mammalia	Chiroptera	Pteropodidae	bat
@@ -123,12 +126,16 @@ Episoriculus	Mammalia	Eulipotyphla	Soricidae	shrew
 Chodsigoa	Mammalia	Eulipotyphla	Soricidae	shrew
 Anourosorex	Mammalia	Eulipotyphla	Soricidae	shrew
 Microgale	Mammalia	Afrosoricida	Tenrecidae	small_mammal
-Oryctolagus	Mammalia	Lagomorpha	Leporidae	rabbit
-Ochotona	Mammalia	Lagomorpha	Ochotonidae	rabbit
+Trichosurus	Mammalia	Afrosoricida	Tenrecidae	small_mammal
+Oryctolagus	Mammalia	Lagomorpha	Leporidae	lagomorph
+Ochotona	Mammalia	Lagomorpha	Ochotonidae	lagomorph
+rabbit	Mammalia	Lagomorpha	Ochotonidae	lagomorph
 Manis	Mammalia	Pholidota	Manidae	pangolin
 Tupaia	Mammalia	Scandentia	Tupaiidae	tree_shrew
 Accipiter	Aves	Accipitriformes	Accipitridae	bird
+Arenaria	Aves	Accipitriformes	Accipitridae	bird
 Circus	Aves	Accipitriformes	Accipitridae	bird
+Coracias	Aves	Accipitriformes	Accipitridae	bird
 Gyps	Aves	Accipitriformes	Accipitridae	bird
 Anas	Aves	Anseriformes	Anatidae	waterfowl
 Anser	Aves	Anseriformes	Anatidae	waterfowl
