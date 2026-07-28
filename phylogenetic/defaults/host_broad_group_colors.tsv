@@ -1,0 +1,11 @@
+host_broad_group	primate	#a6cee3
+host_broad_group	carnivore	#1f78b4
+host_broad_group	marine_mammal	#b2df8a
+host_broad_group	ungulate	#33a02c
+host_broad_group	rodent	#fb9a99
+host_broad_group	bat	#e31a1c
+host_broad_group	shrew	#fdbf6f
+host_broad_group	small_mammal	#ff7f00
+host_broad_group	lagomorph	#cab2d6
+host_broad_group	bird	#6a3d9a
+host_broad_group	waterfowl	#ffff99
