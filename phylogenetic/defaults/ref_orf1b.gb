@@ -1,0 +1,69 @@
+LOCUS       ATVPOLY6A               1560 bp    ss-RNA           UNK 01-JAN-1980
+DEFINITION  Human astrovirus type 1 strain Oxford, complete genome.
+ACCESSION   L23513
+VERSION     L23513.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             <1..1560
+                     /gene="ORF1b"
+                     /note="5' translation start site undetermined; contains
+                     RNA-dependent RNA polymerase motif"
+                     /codon_start=1
+                     /product="nonstructural protein"
+                     /protein_id="AAC34716.1"
+                     /translation="IKKQGPKKLQRAPEDQGAQNYHSLDAWKLLLEPPRERRCVPANFP
+                     LLGHLPINRPIFDDKKPRDDLLGLLPEPTWHAFEEYGPTTWGPQAFIKSFDKFFYAEPI
+                     DFFSEYPQLCAFADWATYREFRYLEDTRVIHITATEKNTDSTPAYPKMNYFDTEENYLE
+                     AHGWAPYIREFTRVFKGDKPEVLWYLFLKKEIIKEEKIRNSDIRQIVCADPIYTRIGAC
+                     LEAHQNALMKQHTDTSVGQCGWSPMEGGFKKTMQRLVNKGNKHFIEFDWTRYDGTIPPA
+                     LFKHIKEIRWNFINKDQREKYRHVHEWYVDNLLNRHVLLPSGEVTLQTRGNPSGQFSTT
+                     MDNNMVNFWLQAFEFAYFNGPDRDLWKTYDTVVYGDDRLSTTPSVPDDYEERVITMYRD
+                     IFGMWVKPGKVICRDSIVGLSFCGFTVNENLEPVPTSPEKLMASLLKPYKILPDLESLH
+                     GKLLCYQLLAAFMAEDHPFKVYVEHCLSRTAKQLRDSGLPARLTEEQLHRIWRGGPKKC
+                     DG"
+     regulatory      19..25
+                     /regulatory_class="other"
+                     /gene="ORF1b"
+                     /note="other"
+                     /function="putative ribosomal frameshifting signal"
+     stem_loop       32..55
+                     /gene="ORF1b"
+                     /note="potential stem-loop structure involved in ribosomal
+                     frameshifting"
+     source          1..1560
+                     /organism="Human astrovirus 1"
+                     /mol_type="genomic RNA"
+                     /serotype="1"
+                     /isolate="Oxford"
+                     /db_xref="taxon:12456"
+ORIGIN
+        1 atcaaaaaac aaggccccaa aaaactacaa agggccccag aagaccaagg ggcccaaaat
+       61 taccactcat tagatgcgtg gaaattgttg ctagagcctc cgcgggagcg gaggtgcgtg
+      121 cctgctaatt ttccattatt aggccattta ccaattaata gacccatctt tgatgataag
+      181 aaacccaggg acgatctcct tggtctactt ccagaaccaa cctggcatgc ttttgaggaa
+      241 tacggaccaa ccacatgggg cccacaagct tttatcaaat cttttgataa atttttttat
+      301 gcagaaccaa ttgacttttt ctcagaatat ccacagttgt gtgctttcgc tgattgggca
+      361 acttatcgcg agtttcggta tctagaggat accagagtga tacacataac tgcaactgag
+      421 aaaaacactg attcaacacc tgcttatcct aaaatgaatt attttgatac tgaagaaaat
+      481 tacttggaag cacatggttg ggcaccatat attagagaat tcactagggt cttcaaagga
+      541 gacaaacctg aagtactttg gtacctattt cttaagaaag agatcattaa ggaggaaaaa
+      601 attaggaatt ctgatatccg gcagatagtg tgtgccgacc ccatttacac caggataggg
+      661 gcgtgcttag aggcgcatca gaatgccttg atgaaacagc ataccgacac ctcagttggt
+      721 caatgtgggt ggtcaccaat ggaaggcggc tttaaaaaaa ccatgcagcg cctagtaaat
+      781 aaagggaata aacactttat tgaattcgac tggacccgct atgatggaac tataccacca
+      841 gcactcttta aacacatcaa agaaattagg tggaatttca tcaataaaga ccaacgtgaa
+      901 aagtacagac atgtacatga atggtatgtt gacaacctcc ttaatcgcca tgtacttcta
+      961 ccatctggtg aagtcacctt gcagacacga ggtaatccat ctgggcagtt ttcaacaaca
+     1021 atggataata acatggtcaa tttttggtta caggcttttg agtttgctta ttttaatggc
+     1081 ccagacagag acctttggaa gacctatgac actgtagttt atggagatga caggctttct
+     1141 acaacacctt cggtgcctga tgattatgag gagagagtga ttactatgta tagagacatc
+     1201 tttggcatgt gggttaagcc tgggaaggtt atctgtagag acagcatagt tggattatcc
+     1261 ttttgtggct ttactgttaa cgaaaacctt gagcccgtgc caacttctcc tgaaaagcta
+     1321 atggcatcac tgttaaaacc ttacaaaata ctacctgatc ttgaatcact ccatgggaag
+     1381 ctcctatgct atcagttgct tgctgcgttc atggcagagg accacccctt taaggtgtat
+     1441 gtggagcact gcctctcacg gactgcaaag cagcttcgtg actctggcct tccagccaga
+     1501 ctcacagaag agcaactcca tcgcatttgg aggggaggac caaagaagtg tgatggctag
+//
