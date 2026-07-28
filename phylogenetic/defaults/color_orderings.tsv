@@ -1,0 +1,1336 @@
+# Asia
+country	Israel
+country	Palestine
+country	Lebanon
+country	Jordan
+country	Syria
+country	Georgia
+country	Iraq
+country	Armenia
+country	Saudi Arabia
+country	Kuwait
+country	Yemen
+country	Bahrain
+country	Qatar
+country	Iran
+country	United Arab Emirates
+country	Oman
+country	Uzbekistan
+country	Afghanistan
+country	Kazakhstan
+country	Pakistan
+country	Tajikistan
+country	Maldives
+country	Kyrgyzstan
+country	India
+country	Sri Lanka
+country	Nepal
+country	Asia
+country	Bangladesh
+country	Myanmar
+country	Thailand
+country	Malaysia
+country	Mongolia
+country	Laos
+country	Singapore
+country	China
+country	Cambodia
+country	Vietnam
+country	Hong Kong
+country	Indonesia
+country	Brunei
+country	Taiwan
+country	Philippines
+country	Timor-Leste
+country	South Korea
+country	Japan
+
+# Oceania
+country	French Polynesia
+country	Palau
+country	Australia
+country	Papua New Guinea
+country	Oceania
+country	Micronesia
+country	Solomon Islands
+country	Vanuatu
+country	Marshall Islands
+country	New Zealand
+country	Kiribati
+country	Fiji
+
+# Africa
+country	Cabo Verde
+country	Gambia
+country	Guinea-Bissau
+country	Senegal
+country	Sierra Leone
+country	Guinea
+country	Liberia
+country	Mauritania
+country	Côte d'Ivoire
+country	Morocco
+country	Mali
+country	Burkina Faso
+country	Ghana
+country	Togo
+country	Benin
+country	Algeria
+country	Sao Tome and Principe
+country	Nigeria
+country	Tunisia
+country	Niger
+country	Equatorial Guinea
+country	Gabon
+country	Cameroon
+country	Republic of the Congo
+country	Libya
+country	Namibia
+country	Angola
+country	Chad
+country	Central African Republic
+country	Democratic Republic of the Congo
+country	Africa
+country	Botswana
+country	South Africa
+country	Zambia
+country	Lesotho
+country	Sudan
+country	South Sudan
+country	Zimbabwe
+country	Burundi
+country	Rwanda
+country	Egypt
+country	Eswatini
+country	Uganda
+country	Malawi
+country	Mozambique
+country	Tanzania
+country	Kenya
+country	Ethiopia
+country	Djibouti
+country	Union of the Comoros
+country	Madagascar
+country	Somalia
+country	Seychelles
+country	Mauritius
+
+# Europe
+country	Iceland
+country	Portugal
+country	Ireland
+country	Spain
+country	United Kingdom
+country	Andorra
+country	France
+country	Belgium
+country	Netherlands
+country	Luxembourg
+country	Monaco
+country	Switzerland
+country	Norway
+country	Denmark
+country	Liechtenstein
+country	Germany
+country	Europe
+country	Italy
+country	Malta
+country	Slovenia
+country	Sweden
+country	Austria
+country	Croatia
+country	Czech Republic
+country	Bosnia and Herzegovina
+country	Poland
+country	Slovakia
+country	Montenegro
+country	Albania
+country	Hungary
+country	Serbia
+country	Kosovo
+country	North Macedonia
+country	Greece
+country	Lithuania
+country	Romania
+country	Bulgaria
+country	Latvia
+country	Estonia
+country	Finland
+country	Belarus
+country	Moldova
+country	Ukraine
+country	Cyprus
+country	Turkey
+country	Azerbaijan
+country	Russia
+
+# South America
+country	Argentina
+country	Uruguay
+country	Chile
+country	Paraguay
+country	Bolivia
+country	South America
+country	Brazil
+country	Peru
+country	Ecuador
+country	Colombia
+country	Suriname
+country	Guyana
+country	Venezuela
+country	Trinidad and Tobago
+country	Bonaire
+country	Curacao
+country	Aruba
+
+# North America
+country	Panama
+country	Costa Rica
+country	Grenada
+country	Nicaragua
+country	Saint Vincent and the Grenadines
+country	Barbados
+country	El Salvador
+country	Saint Lucia
+country	Honduras
+country	Dominica
+country	Guatemala
+country	Guadeloupe
+country	Belize
+country	Antigua and Barbuda
+country	Saint Kitts and Nevis
+country	Saint Barthélemy
+country	Sint Maarten
+country	Saint Martin
+country	Jamaica
+country	Dominican Republic
+country	Haiti
+country	Mexico
+country	Cuba
+country	Bahamas
+country	North America
+country	Bermuda
+country	USA
+country	Canada
+
+################
+
+region	Asia
+region	Oceania
+region	Africa
+region	Europe
+region	South America
+region	North America
+
+################
+
+host	Homo sapiens
+host	Canis lupus familiaris
+host	Capra hircus
+host	Cavia porcellus
+host	Rodentia
+host	Mus baoulei
+host	Rattus norvegicus
+host	Hylomyscus pamfi
+host	Lophuromys sikapusi
+host	Mastomys sp.
+host	Mastomys
+host	Mastomys erythroleucus
+host	Mastomys natalensis
+
+host_genus	host_genus
+host_genus	Homo
+host_genus	Pan
+host_genus	Gorilla
+host_genus	Hoolock
+host_genus	Hylobatidae
+host_genus	Macaca
+host_genus	Papio
+host_genus	Mandrillus
+host_genus	Semnopithecus
+host_genus	Trachypithecus
+host_genus	Chlorocebus
+host_genus	Ateles
+host_genus	Acinonyx
+host_genus	Caracal
+host_genus	Felis
+host_genus	Leopardus
+host_genus	Panthera
+host_genus	Canis
+host_genus	Cerdocyon
+host_genus	Nyctereutes
+host_genus	Vulpes
+host_genus	Mustela
+host_genus	Neogale
+host_genus	Paguma
+host_genus	Paradoxurus
+host_genus	Ailurus
+host_genus	Odobenus
+host_genus	Otariidae
+host_genus	Phocarctos
+host_genus	Zalophus
+host_genus	Eumetopias
+host_genus	Orcinus
+host_genus	Tursiops
+host_genus	Balaenoptera
+host_genus	Bos
+host_genus	Bubalus
+host_genus	Budorcas
+host_genus	Capra
+host_genus	Ovibos
+host_genus	Ovis
+host_genus	Pseudois
+host_genus	Cervus
+host_genus	Capreolus
+host_genus	Odocoileus
+host_genus	Camelus
+host_genus	Sus
+host_genus	Mus
+host_genus	Rattus
+host_genus	Mastomys
+host_genus	Praomys
+host_genus	Hylomyscus
+host_genus	Hybomys
+host_genus	Heimyscus
+host_genus	Lophuromys
+host_genus	Leopoldamys
+host_genus	Niviventer
+host_genus	Sundamys
+host_genus	Bandicota
+host_genus	Berylmys
+host_genus	Rhizomys
+host_genus	Typhlomys
+host_genus	Tscherskia
+host_genus	Cricetulus
+host_genus	Cricetomys
+host_genus	Microtus
+host_genus	Myodes
+host_genus	Alexandromys
+host_genus	Stenocranius
+host_genus	Volemys
+host_genus	Neodon
+host_genus	Urocricetus
+host_genus	Meriones
+host_genus	Eothenomys
+host_genus	Anteliomys
+host_genus	Aethomys
+host_genus	Akodon
+host_genus	Apodemus
+host_genus	Malacomys
+host_genus	Sciurus
+host_genus	Rhinosciurus
+host_genus	Callosciurus
+host_genus	Hylopetes
+host_genus	Marmota
+host_genus	Hystrix
+host_genus	Cavia
+host_genus	Myocastor
+host_genus	Pteropus
+host_genus	Rousettus
+host_genus	Eidolon
+host_genus	Eonycteris
+host_genus	Macroglossus
+host_genus	Megaerops
+host_genus	Myonycteris
+host_genus	Balionycteris
+host_genus	Cynopterus
+host_genus	Sturnira
+host_genus	Artibeus
+host_genus	Carollia
+host_genus	Anoura
+host_genus	Acerodon
+host_genus	Rhinolophus
+host_genus	Hipposideros
+host_genus	Pipistrellus
+host_genus	Nyctalus
+host_genus	Scotophilus
+host_genus	Hypsugo
+host_genus	Vespertilio
+host_genus	Miniopterus
+host_genus	Tadarida
+host_genus	Mops
+host_genus	Mormopterus
+host_genus	Taphozous
+host_genus	Desmodus
+host_genus	Crocidura
+host_genus	Sorex
+host_genus	Suncus
+host_genus	Episoriculus
+host_genus	Chodsigoa
+host_genus	Anourosorex
+host_genus	Microgale
+host_genus	Oryctolagus
+host_genus	Ochotona
+host_genus	Manis
+host_genus	Tupaia
+host_genus	Accipiter
+host_genus	Circus
+host_genus	Gyps
+host_genus	Anas
+host_genus	Anser
+host_genus	Aythya
+host_genus	Cairina
+host_genus	Cygnus
+host_genus	Dendrocygna
+host_genus	Mareca
+host_genus	Spatula
+host_genus	Gallus
+host_genus	Meleagris
+host_genus	Numida
+host_genus	Phasianus
+host_genus	Columba
+host_genus	Spilopelia
+host_genus	Streptopelia
+host_genus	Passer
+host_genus	Periparus
+host_genus	Petroica
+host_genus	Phylloscopus
+host_genus	Prunella
+host_genus	Turdus
+host_genus	Zosterops
+host_genus	Corvus
+host_genus	Cyanopica
+host_genus	Alisterus
+host_genus	Eolophus
+host_genus	Hirundo
+host_genus	Pygoscelis
+host_genus	Gekko
+host_genus	Hemidactylus
+host_genus	Oligosoma
+host_genus	Podarcis
+host_genus	Calotes
+host_genus	Bufo
+host_genus	Duttaphrynus
+host_genus	Hyla
+host_genus	Microhyla
+host_genus	Pelophylax
+host_genus	Polypedates
+host_genus	Sylvirana
+host_genus	Hypselotriton
+host_genus	Pachytriton
+host_genus	Chimaera
+host_genus	Hemitriakis
+host_genus	Hemitrygon
+host_genus	Scoliodon
+host_genus	Benthochromis
+host_genus	Limnochromis
+host_genus	Neolamprologus
+host_genus	Petrochromis
+host_genus	Xenotilapia
+host_genus	Betta
+host_genus	Gambusia
+host_genus	Hippocampus
+host_genus	Sardinella
+host_genus	Zeus
+host_class	host_class
+host_class	Mammalia
+host_class	Aves
+host_class	Reptilia
+host_class	Amphibia
+host_class	Chondrichthyes
+host_class	Actinopterygii
+host_order	host_order
+host_order	Primates
+host_order	Carnivora
+host_order	Cetacea
+host_order	Artiodactyla
+host_order	Rodentia
+host_order	Chiroptera
+host_order	Eulipotyphla
+host_order	Afrosoricida
+host_order	Lagomorpha
+host_order	Pholidota
+host_order	Scandentia
+host_order	Accipitriformes
+host_order	Anseriformes
+host_order	Galliformes
+host_order	Columbiformes
+host_order	Passeriformes
+host_order	Psittaciformes
+host_order	Passeriformes
+host_order	Sphenisciformes
+host_order	Squamata
+host_order	Anura
+host_order	Caudata
+host_order	Chimaeriformes
+host_order	Carcharhiniformes
+host_order	Myliobatiformes
+host_order	Carcharhiniformes
+host_order	Cichliformes
+host_order	Anabantiformes
+host_order	Cyprinodontiformes
+host_order	Syngnathiformes
+host_order	Clupeiformes
+host_order	Zeiformes
+host_family	host_family
+host_family	Hominidae
+host_family	Hylobatidae
+host_family	Cercopithecidae
+host_family	Atelidae
+host_family	Felidae
+host_family	Canidae
+host_family	Mustelidae
+host_family	Viverridae
+host_family	Ailuridae
+host_family	Odobenidae
+host_family	Otariidae
+host_family	Delphinidae
+host_family	Balaenopteridae
+host_family	Bovidae
+host_family	Cervidae
+host_family	Camelidae
+host_family	Suidae
+host_family	Muridae
+host_family	Spalacidae
+host_family	Platacanthomyidae
+host_family	Cricetidae
+host_family	Nesomyidae
+host_family	Cricetidae
+host_family	Muridae
+host_family	Cricetidae
+host_family	Muridae
+host_family	Cricetidae
+host_family	Muridae
+host_family	Sciuridae
+host_family	Hystricidae
+host_family	Caviidae
+host_family	Myocastoridae
+host_family	Pteropodidae
+host_family	Phyllostomidae
+host_family	Pteropodidae
+host_family	Rhinolophidae
+host_family	Hipposideridae
+host_family	Vespertilionidae
+host_family	Miniopteridae
+host_family	Molossidae
+host_family	Emballonuridae
+host_family	Phyllostomidae
+host_family	Soricidae
+host_family	Tenrecidae
+host_family	Leporidae
+host_family	Ochotonidae
+host_family	Manidae
+host_family	Tupaiidae
+host_family	Accipitridae
+host_family	Anatidae
+host_family	Phasianidae
+host_family	Numididae
+host_family	Phasianidae
+host_family	Columbidae
+host_family	Passeridae
+host_family	Paridae
+host_family	Petroicidae
+host_family	Phylloscopidae
+host_family	Prunellidae
+host_family	Turdidae
+host_family	Zosteropidae
+host_family	Corvidae
+host_family	Psittaculidae
+host_family	Cacatuidae
+host_family	Hirundinidae
+host_family	Spheniscidae
+host_family	Gekkonidae
+host_family	Scincidae
+host_family	Lacertidae
+host_family	Agamidae
+host_family	Bufonidae
+host_family	Hylidae
+host_family	Microhylidae
+host_family	Ranidae
+host_family	Rhacophoridae
+host_family	Ranidae
+host_family	Salamandridae
+host_family	Chimaeridae
+host_family	Triakidae
+host_family	Dasyatidae
+host_family	Carcharhinidae
+host_family	Cichlidae
+host_family	Osphronemidae
+host_family	Poeciliidae
+host_family	Syngnathidae
+host_family	Clupeidae
+host_family	Zeidae
+host_broad_group	primate
+host_broad_group	carnivore
+host_broad_group	marine_mammal
+host_broad_group	ungulate
+host_broad_group	rodent
+host_broad_group	bat
+host_broad_group	shrew
+host_broad_group	small_mammal
+host_broad_group	lagomorph
+host_broad_group	pangolin
+host_broad_group	bird
+host_broad_group	tree_shrew
+host_broad_group	waterfowl
+host_broad_group	passerine
+host_broad_group	reptile
+host_broad_group	amphibian
+host_broad_group	cartilaginous_fish
+host_broad_group	fish
+organism	Astrovirus human/SZ908/China/2008
+organism	Human astrovirus
+organism	Human astrovirus 1
+organism	Human astrovirus 1a
+organism	Human astrovirus 1b
+organism	Human astrovirus 1d
+organism	Human astrovirus 2
+organism	Human astrovirus 2c
+organism	Human astrovirus 3
+organism	Human astrovirus 3a
+organism	Human astrovirus 4
+organism	Human astrovirus 4a
+organism	Human astrovirus 4c
+organism	Human astrovirus 5
+organism	Human astrovirus 6
+organism	Human astrovirus 7
+organism	Human astrovirus 8
+organism	Human astrovirus BF34
+organism	Human astrovirus GGH-2004
+organism	Human astrovirus MLB2
+organism	Human astrovirus MLB3
+organism	Human astrovirus UK1
+organism	Human astrovirus VA2
+organism	Cricetulus longicaudatus mamastrovirus
+organism	Feline mamastrovirus
+organism	Guangxi mamastrovirus 1
+organism	Guangxi mamastrovirus 2
+organism	Hainan mamastrovirus
+organism	Henan mamastrovirus 1
+organism	Henan mamastrovirus 2
+organism	Henan mamastrovirus 3
+organism	Henan mamastrovirus 4
+organism	Henan mamastrovirus 5
+organism	Henan mamastrovirus 6
+organism	Henan mamastrovirus 7
+organism	Henan mamastrovirus 8
+organism	Hubei mamastrovirus 1
+organism	Hubei mamastrovirus 2
+organism	Hubei mamastrovirus 3
+organism	Hubei mamastrovirus 4
+organism	Jiangsu mamastrovirus 1
+organism	Jiangsu mamastrovirus 2
+organism	Lophuromys chrysopus mamastrovirus
+organism	Mamastrovirus
+organism	Mamastrovirus 1
+organism	Mamastrovirus 2
+organism	Mamastrovirus 3
+organism	Mamastrovirus 4
+organism	Mamastrovirus 5
+organism	Mamastrovirus 6
+organism	Mamastrovirus 7
+organism	Mamastrovirus 8
+organism	Mamastrovirus 9
+organism	Mamastrovirus 10
+organism	Mamastrovirus 11
+organism	Mamastrovirus 12
+organism	Mamastrovirus 13
+organism	Mamastrovirus 14
+organism	Mamastrovirus 15
+organism	Mamastrovirus 16
+organism	Mamastrovirus 17
+organism	Mamastrovirus 18
+organism	Mamastrovirus 19
+organism	Mamastrovirus 22
+organism	Mamastrovirus 25
+organism	Mamastrovirus felis
+organism	Mamastrovirus HMU-1
+organism	Mamastrovirus pig/HL/China
+organism	Mamastrovirus sp.
+organism	Mamastrovirus suisorientalis
+organism	Rat mamastrovirus
+organism	Sichuan mamastrovirus 1
+organism	Sichuan mamastrovirus 5
+organism	Sichuan mamastrovirus 6
+organism	Sichuan mamastrovirus 7
+organism	Sichuan mamastrovirus 8
+organism	Sichuan mamastrovirus 9
+organism	Sichuan mamastrovirus 10
+organism	Sichuan mamastrovirus 11
+organism	Sichuan mamastrovirus 12
+organism	Xinjiang mamastrovirus 1
+organism	Xinjiang mamastrovirus 2
+organism	Xinjiang mamastrovirus 3
+organism	Xinjiang mamastrovirus 4
+organism	Xinjiang mamastrovirus 5
+organism	Xinjiang mamastrovirus 6
+organism	Xinjiang mamastrovirus 7
+organism	Yunnan rodent mamastrovirus 1
+organism	Yunnan rodent mamastrovirus 2
+organism	Yunnan rodent mamastrovirus 3
+organism	Yunnan rodent mamastrovirus 4
+organism	Yunnan rodent mamastrovirus 5
+organism	Yunnan shrew mamastrovirus 1
+organism	Yunnan shrew mamastrovirus 2
+organism	Zhejiang mamastrovirus 1
+organism	Zhejiang mamastrovirus 2
+organism	Zhejiang mamastrovirus 3
+organism	Zhejiang mamastrovirus 4
+organism	Aethomys rat astrovirus
+organism	Astrovirus AstV_Rat1
+organism	Astrovirus AstV_Rat4
+organism	Astrovirus rat/RS116/HKG/2007
+organism	Astrovirus rat/RS118/HKG/2007
+organism	Astrovirus rat/RS122/HKG/2007
+organism	Astrovirus rat/RS126/HKG/2007
+organism	Astrovirus rat/RS297/HKG/2008
+organism	Astrovirus rat/RS299/HKG/2008
+organism	Bamboo rat astrovirus
+organism	Bastrovirus Rat/77
+organism	Bastrovirus Rat/78
+organism	Bastrovirus/VietNam/Rat/14294_55
+organism	Bastrovirus/VietNam/Rat/16715_10
+organism	Bastrovirus/VietNam/Rat/16715_26
+organism	Bastrovirus/VietNam/Rat/16715_4
+organism	Bastrovirus/VietNam/Rat/16715_58
+organism	Istigobius decoratus astrovirus
+organism	Jingmen rodent astrovirus 1
+organism	Jingmen rodent astrovirus 2
+organism	Jingmen rodent astrovirus 3
+organism	Jingmen rodent bastrovirus 1
+organism	Longquan rodent astrovirus 1
+organism	Longquan rodent astrovirus 2
+organism	Mouse astrovirus M-52/USA/2008
+organism	Rat astrovirus
+organism	Rat astrovirus Ne/FG045/Yunnan
+organism	Rat astrovirus Ne/FG046/Yunnan
+organism	Rat astrovirus Ne/FG047/Yunnan
+organism	Rat astrovirus Ne/FG048/Yunnan
+organism	Rat astrovirus Ne/FG111/Yunnan
+organism	Rat astrovirus Ne/FG168/Yunnan
+organism	Rat astrovirus Rn/S510/Guangzhou
+organism	Rat astrovirus Rt/X104/Xiamen
+organism	Rattus norvegicus astro-like virus
+organism	Rodent astrovirus
+organism	Wenling rattails astrovirus 1
+organism	Wenling rattails astrovirus 2
+organism	Wenling rattails astrovirus 3
+organism	Wenling rattails astrovirus 4
+organism	Wenling rattails astrovirus 5
+organism	Wenzhou rodent astrovirus 1
+organism	Wufeng rodent astrovirus 1
+organism	Wufeng rodent astrovirus 2
+organism	Yili teratoscincus roborowskii astrovirus
+organism	Ailurus fulgens astrovirus 1
+organism	Ailurus fulgens astrovirus 2
+organism	Asiatic toad bastrovirus
+organism	Asterropteryx semipunctatus astrovirus
+organism	Astroviridae sp.
+organism	Astrovirus 2010_Msc_17636_VA3/HMO
+organism	Astrovirus 2010_Msc_18001_MLB
+organism	Astrovirus BAstV/B122/HUN/2013
+organism	Astrovirus BAstV/B14/HUN/2012
+organism	Astrovirus BAstV/B23/HUN/2012
+organism	Astrovirus BAstV/Bb1/HUN/2013
+organism	Astrovirus BAstV/BS50/HUN/2013
+organism	Astrovirus BAstV/M24/HUN/2012
+organism	Astrovirus BAstV/M44/HUN/2013
+organism	Astrovirus BAstV/V9/HUN/2013
+organism	Astrovirus BF34
+organism	Astrovirus black-naped monarch/Cambodia/2010
+organism	Astrovirus CDB-2012
+organism	Astrovirus deer/CcAstV-1/DNK/2010
+organism	Astrovirus deer/CcAstV-2/DNK/2010
+organism	Astrovirus dogfaeces/Bari
+organism	Astrovirus dogfaeces/Bari/2008
+organism	Astrovirus dogfaeces/China/2008
+organism	Astrovirus dogfaeces/Italy/2005
+organism	Astrovirus Er/BMTK529/HUN/2011
+organism	Astrovirus Er/SZAL6/HUN/2011
+organism	Astrovirus GAB 438
+organism	Astrovirus HK-2014
+organism	Astrovirus Hu/C2-031108/Singapore/2008
+organism	Astrovirus MLB1
+organism	Astrovirus MLB1 HK05
+organism	Astrovirus MLB2
+organism	Astrovirus MLB3
+organism	Astrovirus Mnd-139
+organism	Astrovirus Mnd-27
+organism	Astrovirus Mnd-36
+organism	Astrovirus PA
+organism	Astrovirus PgAstV-1
+organism	Astrovirus PgAstV-2
+organism	Astrovirus PgAstV-3
+organism	Astrovirus PgAstV-4
+organism	Astrovirus PgAstV-5
+organism	Astrovirus PgAstV-7
+organism	Astrovirus PgAstV-8
+organism	Astrovirus PREDICT MAstV-111
+organism	Astrovirus PREDICT MAstV-112
+organism	Astrovirus PREDICT MAstV-113
+organism	Astrovirus PREDICT MAstV-117
+organism	Astrovirus PREDICT MAstV-118
+organism	Astrovirus PREDICT MAstV-122
+organism	Astrovirus PREDICT MAstV-125
+organism	Astrovirus PREDICT MAstV-126
+organism	Astrovirus PREDICT MAstV-127
+organism	Astrovirus PREDICT MAstV-128
+organism	Astrovirus PREDICT MAstV-137
+organism	Astrovirus PREDICT_MAstV-135
+organism	Astrovirus Pygoscelis/DT/2012
+organism	Astrovirus rabbit/Nausica/2008/ITA
+organism	Astrovirus SG
+organism	Astrovirus sp.
+organism	Astrovirus swine/PoAstV10-4/Canada/2006
+organism	Astrovirus swine/PoAstV11-2/Canada/2006
+organism	Astrovirus swine/PoAstV12-3/Canada/2006
+organism	Astrovirus swine/PoAstV12-4/Canada/2006
+organism	Astrovirus swine/PoAstV13-1/Canada/2006
+organism	Astrovirus swine/PoAstV14-4/Canada/2006
+organism	Astrovirus swine/PoAstV15-2/Canada/2006
+organism	Astrovirus swine/PoAstV15-6/Canada/2006
+organism	Astrovirus swine/PoAstV16-2/Canada/2006
+organism	Astrovirus swine/PoAstV17-4/Canada/2006
+organism	Astrovirus swine/PoAStV18-5/Canada/2006
+organism	Astrovirus swine/PoAstV19-3/Canada/2006
+organism	Astrovirus swine/PoAstV2-2/Canada/2006
+organism	Astrovirus swine/PoAstV20-5/Canada/2006
+organism	Astrovirus swine/PoAstV7-2/Canada/2006
+organism	Astrovirus swine/PoAstV7-3/Canada/2006
+organism	Astrovirus VA1
+organism	Astrovirus VA1/HMO-C
+organism	Astrovirus VA2
+organism	Astrovirus VA3
+organism	Astrovirus VA4
+organism	Astrovirus VA5
+organism	Astrovirus VA6
+organism	Astrovirus wild boar/WBAstV-1/2011/HUN
+organism	Astrovirus YN12018/CHN/2012
+organism	Avastrovirus
+organism	Avastrovirus 1
+organism	Avastrovirus 2
+organism	Avastrovirus 3
+organism	Avastrovirus guineafowl/ITA/2010/Bari-ELVA
+organism	Avastrovirus sp.
+organism	Bactrian camel astrovirus
+organism	Bastrovirus 1
+organism	Bastrovirus 2
+organism	Bastrovirus 3
+organism	Bastrovirus 4
+organism	Bastrovirus 5
+organism	Bastrovirus 6
+organism	Bastrovirus 7
+organism	Bastrovirus BAS-3
+organism	Bastrovirus Brazil/sewage
+organism	Bastrovirus sp.
+organism	Bastrovirus/VietNam/Porcine/17489_85
+organism	Beihai cephalopholis spiloparaea astrovirus
+organism	Beihai fish astrovirus 1
+organism	Beihai tree frog astrovirus
+organism	Benthochromis horii astrovirus
+organism	Big eyed perch astrovirus FL2
+organism	Blencathra virus
+organism	Blenniella astrovirus
+organism	Bos astrovirus 1
+organism	Bottlenose dolphin astrovirus 1
+organism	Bottlenose dolphin astrovirus 2
+organism	Bottlenose dolphin astrovirus 3
+organism	Bottlenose dolphin astrovirus 4
+organism	Bottlenose dolphin astrovirus 5
+organism	Bottlenose dolphin astrovirus 6
+organism	Bottlenose dolphin astrovirus 7
+organism	Bottlenose dolphin astrovirus 8
+organism	Bovine astrovirus
+organism	Bovine astrovirus B161-1
+organism	Bovine astrovirus B161-2
+organism	Bovine astrovirus B170/HK
+organism	Bovine astrovirus B18/HK
+organism	Bovine astrovirus B34/HK
+organism	Bovine astrovirus B76-2/HK
+organism	Bovine astrovirus B76/HK
+organism	Bovine astrovirus CH13
+organism	Bovine astrovirus CH13/NeuroS1
+organism	Bovine astrovirus NeuroS1
+organism	Buffalo astrovirus
+organism	Bunastrovirus betta10698
+organism	Cabillus tongarevae astrovirus
+organism	California sea lion astrovirus 10
+organism	California sea lion astrovirus 11
+organism	California sea lion astrovirus 2
+organism	California sea lion astrovirus 3
+organism	California sea lion astrovirus 4
+organism	California sea lion astrovirus 5
+organism	California sea lion astrovirus 6
+organism	California sea lion astrovirus 7
+organism	California sea lion astrovirus 8
+organism	California sea lion astrovirus 9
+organism	Canine astrovirus
+organism	Canine astrovirus VM-2011
+organism	Caprine astrovirus
+organism	Caprine astrovirus G2.1
+organism	Caprine astrovirus G3.1
+organism	Caprine astrovirus G5.1
+organism	Caracal caracal astrovirus
+organism	Carnarvon virus
+organism	Casa astrovirus
+organism	Chaetodon baronessa astrovirus
+organism	Chalinolobus tuberculatus astrovirus 1
+organism	Chalinolobus tuberculatus astrovirus 2
+organism	Cheetah astrovirus 1
+organism	Chenqi Marmot Astrovirus
+organism	Chestnut teal astrovirus
+organism	Chimpanzee astrovirus
+organism	Chrocicirn virus
+organism	Chrocifust virus
+organism	Chrocigord virus
+organism	Chrocijend virus
+organism	Chrocikurb virus
+organism	Chrocilan virus
+organism	Chrociralt virus
+organism	Chrociworb virus
+organism	Chromis viridis astrovirus
+organism	Chronihask virus
+organism	Chronimunb virus
+organism	Chroninyst virus
+organism	Chronizom virus
+organism	Civet astrovirus
+organism	Common gecko astrovirus
+organism	Copper skink astrovirus
+organism	Coypu astrovirus 1
+organism	Coypu astrovirus 2
+organism	Crocidura lasiura astrovirus
+organism	Crocidura tanakae astrovirus
+organism	Crow astrovirus
+organism	Culex Bastrovirus-like virus
+organism	Dascyllus reticulatus astrovirus
+organism	Dicentrarchus labrax virus
+organism	Dog astrovirus
+organism	Dongbei arctic lamprey astrovirus 1
+organism	Dongbei arctic lamprey astrovirus 2
+organism	Dongbei arctic lamprey astrovirus 3
+organism	Dongbei arctic lamprey astrovirus 4
+organism	Dongtou red stingray astrovirus
+organism	Dromedary astrovirus
+organism	Eastern mosquitofish bastrovirus
+organism	Eastern red scorpionfish astrovirus
+organism	Eastern sea garfish astrovirus
+organism	Enantiopus melanogenys astrovirus
+organism	European roller astrovirus
+organism	Eviota astrovirus
+organism	Feline astrovirus 2
+organism	Feline astrovirus 3
+organism	Feline astrovirus 4
+organism	Feline astrovirus D1
+organism	Feline astrovirus Viseu
+organism	Feline avastrovirus
+organism	Flumine Astrovirus 1
+organism	Flumine Astrovirus 10
+organism	Flumine Astrovirus 11
+organism	Flumine Astrovirus 12
+organism	Flumine Astrovirus 13
+organism	Flumine Astrovirus 14
+organism	Flumine Astrovirus 15
+organism	Flumine Astrovirus 16
+organism	Flumine Astrovirus 17
+organism	Flumine Astrovirus 18
+organism	Flumine Astrovirus 19
+organism	Flumine Astrovirus 2
+organism	Flumine Astrovirus 20
+organism	Flumine Astrovirus 21
+organism	Flumine Astrovirus 22
+organism	Flumine Astrovirus 23
+organism	Flumine Astrovirus 24
+organism	Flumine Astrovirus 25
+organism	Flumine Astrovirus 3
+organism	Flumine Astrovirus 4
+organism	Flumine Astrovirus 5
+organism	Flumine Astrovirus 6
+organism	Flumine Astrovirus 7
+organism	Flumine Astrovirus 8
+organism	Flumine Astrovirus 9
+organism	Flumine Bastrovirus 1
+organism	Flumine Bastrovirus 2
+organism	Flumine Bastrovirus 3
+organism	Flumine Bastrovirus 4
+organism	Fox astrovirus
+organism	Fox astrovirus F4
+organism	Fujian spotted paddle-tail newt astrovirus
+organism	Gecko astrovirus
+organism	Gekko chinensis astrovirus
+organism	Gerbil astrovirus
+organism	Goat astrovirus
+organism	Goby astrovirus 2
+organism	Goby astrovirus 3
+organism	Grey squirrel astrovirus
+organism	Guangdong chinese water skink astrovirus
+organism	Guangdong chinese water snake astrovirus
+organism	Guangdong sanke astrovirus
+organism	Guangxi changeable lizard astrovirus
+organism	Guinea fowl astrovirus
+organism	Hainan black-spectacled toad astrovirus 2
+organism	Hainan gekko similignum astrovirus
+organism	Hainan leptobrachium hainanense astrovirus
+organism	Hainan marbled pigmy frog astrovirus 1
+organism	Hainan marbled pigmy frog astrovirus 2
+organism	Hainan oriental leaf-toed gecko astrovirus 1
+organism	Hainan oriental leaf-toed gecko astrovirus 2
+organism	Hangzhou astrovirus 1
+organism	Heilongjiang avastrovirus
+organism	Heilongjiang porcine bastro-like virus
+organism	Helianthus astrovirus A
+organism	Hemidactylus frenatus astrovirus
+organism	Henan avastrovirus
+organism	Hetbin gecko astrovirus
+organism	Hetplan gecko astrovirus
+organism	Himalayan marmot astrovirus XJ1
+organism	Hippocampus erectus astro-like virus 1
+organism	HMO Astrovirus A
+organism	HMO Astrovirus B
+organism	HMO Astrovirus C
+organism	House shrew astrovirus
+organism	Huanan hylidae astrovirus
+organism	Hubei sediment bastro-like virus
+organism	Istigobius nigroocellatus astrovirus
+organism	Jingmen shrew astrovirus 1
+organism	John dory astrovirus FL10
+organism	Lamprologus kungweensis astrovirus
+organism	Largetooth flounder astrovirus
+organism	Limnochromis auritus astrovirus
+organism	Macaque MLB-like astrovirus
+organism	Marmot astrovirus
+organism	Marmot astrovirus 1
+organism	Marmot astrovirus 2
+organism	Marmot astrovirus 3
+organism	Marmot astrovirus 4
+organism	Marmot astrovirus 5
+organism	Marmot astrovirus 6
+organism	Marmot astrovirus XJ2
+organism	Megaerops kusnotoi astrovirus
+organism	Miniopterus fuliginosus astrovirus
+organism	Miniopterus fuliginosus astrovirus XMM445
+organism	Miniopterus inflatus bastrovirus
+organism	Miniopterus schreibersii astrovirus 1
+organism	Miniopterus schreibersii astrovirus 10
+organism	Miniopterus schreibersii astrovirus 11
+organism	Miniopterus schreibersii astrovirus 12
+organism	Miniopterus schreibersii astrovirus 13
+organism	Miniopterus schreibersii astrovirus 2
+organism	Miniopterus schreibersii astrovirus 3
+organism	Miniopterus schreibersii astrovirus 4
+organism	Miniopterus schreibersii astrovirus 5
+organism	Miniopterus schreibersii astrovirus 6
+organism	Miniopterus schreibersii astrovirus 6/11/12
+organism	Miniopterus schreibersii astrovirus 7
+organism	Miniopterus schreibersii astrovirus 8
+organism	Miniopterus schreibersii astrovirus 9
+organism	Mink avastrovirus
+organism	Mink stool-associated astrovirus
+organism	Minke whale astrovirus 1
+organism	Minke whale astrovirus 2
+organism	Muraenolepis astrovirus
+organism	Murine astrovirus
+organism	Murine astrovirus 1
+organism	Murine astrovirus 2
+organism	Murray-Darling rainbowfish astrovirus
+organism	Mute swan feces associated avastrovius 1
+organism	Mute swan feces associated avastrovius 2
+organism	Myotis fimbriatus astrovirus
+organism	Myotis ricketti associated fish astrovirus
+organism	Myotis ricketti astrovirus 1
+organism	Nanhai ghost shark astrovirus 1
+organism	Nanhai ghost shark astrovirus 2
+organism	Nelson Astrovirus-like 1
+organism	Neolamprologus brevis astrovirus
+organism	Neolamprologus tetracanthus astrovirus
+organism	Neva virus
+organism	New Zealand sea lion astrovirus 1
+organism	Niviventer sp. astrovirus
+organism	Orca astrovirus 1
+organism	organism
+organism	Oryctes associated astro-like virus
+organism	Ovine astrovirus OAstV-2/Hungary/2009
+organism	Ovine astrovirus S5.1
+organism	Ovine astrovirus S6.1
+organism	Pangolin astrovirus A4
+organism	Passerine astrovirus 1
+organism	Passerine astrovirus 2
+organism	Passerine astrovirus 3
+organism	Passerine astrovirus 4
+organism	Petrochromis famula astrovirus
+organism	Pig astrovirus ahast-2
+organism	Pig astrovirus CX1
+organism	Pika astrovirus Ot/FG164/Yunnan
+organism	Pika astrovirus Ot/FG165/Yunnan
+organism	Plagiotremus tapeinosoma astrovirus
+organism	Porcine astrovirus 1
+organism	Porcine astrovirus 2
+organism	Porcine astrovirus 2 Shanghai/2008
+organism	Porcine astrovirus 2/BEL/15V010
+organism	Porcine astrovirus 3
+organism	Porcine astrovirus 4
+organism	Porcine astrovirus 4/BEL/15V010
+organism	Porcine astrovirus 5
+organism	Porcine astrovirus China
+organism	Porcine astrovirus PAstV-2/2007/HUN
+organism	Porcine bastrovirus
+organism	Porcupine astrovirus
+organism	Porcupine astrovirus 1
+organism	Porcupine astrovirus 2
+organism	Porcupine astrovirus 3
+organism	Porcupine astrovirus 4
+organism	Porcupine astrovirus 5
+organism	Porcupine astrovirus 6
+organism	Porcupine astrovirus 7
+organism	Porcupine astrovirus Hb/LP077/Guangxi
+organism	Porcupine astrovirus Hb/LP083/Guangxi
+organism	Porcupine astrovirus Hb/LP084/Guangxi
+organism	Porcupine astrovirus Hb/LP092/Guangxi
+organism	Porcupine astrovirus Hb/LP102/Guangxi
+organism	Porure astrovirus 1
+organism	Possum astrovirus
+organism	Primate astrovirus
+organism	Pyongtaek Culex bastrovirus
+organism	Qianjiang astro-like virus 1
+organism	Qianjiang astro-like virus 10
+organism	Qianjiang astro-like virus 11
+organism	Qianjiang astro-like virus 12
+organism	Qianjiang astro-like virus 13
+organism	Qianjiang astro-like virus 14
+organism	Qianjiang astro-like virus 15
+organism	Qianjiang astro-like virus 16
+organism	Qianjiang astro-like virus 17
+organism	Qianjiang astro-like virus 2
+organism	Qianjiang astro-like virus 3
+organism	Qianjiang astro-like virus 4
+organism	Qianjiang astro-like virus 5
+organism	Qianjiang astro-like virus 6
+organism	Qianjiang astro-like virus 7
+organism	Qianjiang astro-like virus 8
+organism	Qianjiang astro-like virus 9
+organism	Qinghai Himalayan marmot astrovirus 1
+organism	Qinghai Himalayan marmot astrovirus 2
+organism	Rabbit astrovirus
+organism	Rabbit astrovirus TN/2208/2010
+organism	Raccoon dog astrovirus
+organism	Raccoon dog astrovirus 1
+organism	Raccoon dog astrovirus 2
+organism	Raccoon dog astrovirus 3
+organism	Raccoon dog astrovirus 4
+organism	Red gurnard astrovirus FL18
+organism	Red-necked stint avastrovirus
+organism	Retropinna astrovirus 1
+organism	Retropinna-associated astrovirus
+organism	Rhesus monkey astrovirus
+organism	Rhinolophus ferrumequinum astrovirus
+organism	Rhinolophus pusillus astrovirus
+organism	Rhinolophus sinicus astrovirus 1
+organism	Ripichir virus
+organism	Ripidurd virus
+organism	Ripiglif virus
+organism	Ripijind virus
+organism	Ripikrak virus
+organism	Ripikral virus
+organism	Ripinasc virus
+organism	Ripipron virus
+organism	Ripiprov virus
+organism	Ripishic virus
+organism	Ripishyf virus
+organism	Ripislep virus
+organism	Ripistiq virus
+organism	Ripistuv virus
+organism	Ripithen virus
+organism	Ripithyc virus
+organism	Ripitruc virus
+organism	Roe deer astrovirus
+organism	Ruddy turnstone astrovirus
+organism	Sanya astro-like virus 1
+organism	Shrew astrovirus
+organism	Shrew astrovirus Ca/FG184/Yunnan
+organism	Shrew astrovirus El/FG102/Yunnan
+organism	Shrew astrovirus El/FG159/Yunnan
+organism	Sichuan takin astrovirus
+organism	Solanum melongena bastro-like virus
+organism	Sopibas virus
+organism	Sopiboz virus
+organism	Sopicas virus
+organism	Sopicug virus
+organism	Sopideg virus
+organism	Sopidep virus
+organism	Sopifaz virus
+organism	Sopigof virus
+organism	Sopikyz virus
+organism	Sopimin virus
+organism	Sopimyn virus
+organism	Sopinyg virus
+organism	Sopisen virus
+organism	Sopises virus
+organism	Sopitep virus
+organism	Sopitred virus
+organism	Sopivec virus
+organism	Sopiway virus
+organism	Spangled perch bastrovirus
+organism	Spot-less plunderfish astrovirus
+organism	Squirrel astrovirus 1
+organism	Squirrel astrovirus 2
+organism	Steller sea lion astrovirus 1
+organism	Tadarida brasiliensis astrovirus
+organism	Taieri astrovirus
+organism	Tasmanian devil-associated astrovirus 1
+organism	Tiger astrovirus CS-2018
+organism	Tiger flathead astrovirus FL6
+organism	Toitoi astrovirus 1
+organism	Toitoi astrovirus 2
+organism	Tree shrew astrovirus
+organism	Turkey astrovirus
+organism	Turkey astrovirus 1
+organism	Turkey astrovirus 2
+organism	Turkey astrovirus 3
+organism	Tylonycteris robustula astrovirus 1
+organism	Vole astrovirus
+organism	Vole astrovirus Ec/FG004/Yunnan
+organism	Vole astrovirus Ec/FG005/Yunnan
+organism	Vole astrovirus Ec/FG006/Yunnan
+organism	Vole astrovirus Ec/FG008/Yunnan
+organism	Vole astrovirus Ec/FG009/Yunnan
+organism	Vole astrovirus Ec/FG011/Yunnan
+organism	Vole astrovirus Ec/FG014/Yunnan
+organism	Vole astrovirus Ec/FG015/Yunnan
+organism	Vole astrovirus Ec/FG018/Yunnan
+organism	Vole astrovirus Ec/FG019/Yunnan
+organism	Vole astrovirus Ec/FG020/Yunnan
+organism	Vole astrovirus Ec/FG025/Yunnan
+organism	Vole astrovirus Ec/FG032/Yunnan
+organism	Vole astrovirus Ec/FG033/Yunnan
+organism	Vole astrovirus Ec/FG034/Yunnan
+organism	Vole astrovirus Ec/FG064/Yunnan
+organism	Vole astrovirus Ec/FG065/Yunnan
+organism	Vole astrovirus Ec/FG068/Yunnan
+organism	Vole astrovirus Ec/FG069/Yunnan
+organism	Vole astrovirus Ec/FG070/Yunnan
+organism	Vole astrovirus Ec/FG075/Yunnan
+organism	Vole astrovirus Ec/FG083/Yunnan
+organism	Vole astrovirus Ec/FG084/Yunnan
+organism	Vole astrovirus Ec/FG089/Yunnan
+organism	Vole astrovirus Ec/FG091-1/Yunnan
+organism	Vole astrovirus Ec/FG091-2/Yunnan
+organism	Vole astrovirus Ec/FG094/Yunnan
+organism	Vole astrovirus Ec/FG096/Yunnan
+organism	Vole astrovirus Ec/FG099/Yunnan
+organism	Vole astrovirus Ec/FG100/Yunnan
+organism	Vole astrovirus Ec/FG136/Yunnan
+organism	Vole astrovirus Ec/FG139/Yunnan
+organism	Vole astrovirus Ec/FG141/Yunnan
+organism	Vole astrovirus Ec/FG142/Yunnan
+organism	Vole astrovirus Ec/FG143/Yunnan
+organism	Vole astrovirus Ec/FG146/Yunnan
+organism	Vole astrovirus Ec/FG148/Yunnan
+organism	Vole astrovirus Vm/FG156/Yunnan
+organism	Vole astrovirus Vm/FG163/Yunnan
+organism	Vulpix virus
+organism	Water buffalo astrovirus
+organism	Wenling banjofish astrovirus
+organism	Wenling bighead beaked sandfish astrovirus
+organism	Wenling crossorhombus astrovirus 1
+organism	Wenling crossorhombus astrovirus 2
+organism	Wenling japanese thread-sail fish astrovirus
+organism	Wenling japanese topeshark astrovirus
+organism	Wenling lepidotrigla astrovirus
+organism	Wenling longspine snipefish astrovirus
+organism	Wenling perciformes astrovirus 2
+organism	Wenling plagiopsetta astrovirus
+organism	Wenling pterygotrigla hemisticta astrovirus
+organism	Wenling righteye flounders astrovirus
+organism	Wenling snipefish astrovirus
+organism	Wenling yellow-striped sandperch astrovirus
+organism	Wenzhou pacific spadenose shark astrovirus 2
+organism	Wenzhou pacific spadenose shark astrovirus 3
+organism	White-tailed deer astrovirus
+organism	Wufeng shrew astrovirus 1
+organism	Wufeng shrew bastrovirus 1
+organism	Wufeng shrew bastrovirus 2
+organism	Wufeng shrew bastrovirus 3
+organism	Wufeng shrew bastrovirus 4
+organism	Wuhan asiatic toad astrovirus
+organism	Wuhan japanese halfbeak astrovirus
+organism	Xenotilapia boulengeri astrovirus
+organism	Xenotilapia nasus astrovirus 1
+organism	Xenotilapia nasus astrovirus 2
+organism	Xinjiang avastrovirus
+organism	Yak astrovirus
+organism	Yancheng grey stingfish astrovirus
+organism	Yunnan shrew astrovirus 1
+organism	Zhejiang avastrovirus
+organism	Zhejiang chinese fire belly newt astrovirus 1
+organism	Zhejiang chinese fire belly newt astrovirus 2
+organism	Zhejiang chinese fire belly newt astrovirus 3
+organism	Zhejiang gunthers frog astrovirus
+organism	Zhejiang porcine bastro-like virus
+organism	Avian associated bastrovirus 1
+organism	Avian associated bastrovirus 2
+organism	Avian astrovirus
+organism	Avian astrovirus 2
+organism	Avian avastrovirus 4
+organism	Avian nephritis virus
+organism	Avian nephritis virus 1
+organism	Avian nephritis virus 2
+organism	Avian nephritis virus 3
+organism	Avian nephritis virus AFBI-2010
+organism	Avian nephritis virus chicken/792/USA/2005
+organism	Avian nephritis virus goose/HRV/2010
+organism	Avian nephritis virus pigeon/CHN-10/2010
+organism	Avian nephritis virus pigeon/Shanghai/2010
+organism	Avian nephritis virus Sichuan62/2009
+organism	Avian nephritis virus Sichuan75/2009
+organism	Avian nephritis virus Sichuan80/2009
+organism	Avian nephritis virus Sichuan87/2009
+organism	Avian nephritis virus Sichuan98/2009
+organism	Avian nephritis virus turkey/G145/Poland/2008
+organism	Chicken astrovirus
+organism	Chicken astrovirus 1
+organism	Chicken astrovirus 1 USP336-1/Brazil/2009
+organism	Chicken astrovirus 1 USP336-2/Brazil/2009
+organism	Chicken astrovirus 1 USP337-1/Brazil/2009
+organism	Chicken astrovirus 1 USP337-2/Brazil/2009
+organism	Chicken astrovirus 2
+organism	Chicken astrovirus Indovax/APF/1319
+organism	Chicken astrovirus Indovax/EI/1078
+organism	Chicken astrovirus Indovax/SH/1079
+organism	Chicken astrovirus pigeon/Shanghai/2010
+organism	Duck astrovirus
+organism	Duck astrovirus 1
+organism	Duck astrovirus 3
+organism	Duck astrovirus C-NGB
+organism	Duck astrovirus CPH
+organism	Duck hepatitis virus 2
+organism	Duck hepatitis virus 3
+organism	Feral pigeon astrovirus
+organism	Goose astrovirus
+organism	Goose astrovirus 1
+organism	Goose astrovirus 2
+organism	Pacific black duck astrovirus
+organism	Pigeon astrovirus
+organism	Pigeon avian nephritis virus
+organism	Pink-eared duck avastrovirus
+organism	shorebird astrovirus
+organism	Wood pigeon astrovirus
+blast_species	AAstV1 avastrovirus_1 Avastrovirus_meleagridis
+blast_species	AAstV2 avastrovirus_2 Avastrovirus_galli
+blast_species	AAstV3 avastrovirus_3 Avastrovirus_intestini
+blast_species	DAstV-M duck_astrovirus_M Avastrovirus_marecae
+blast_species	MAstV1 mamastrovirus_1 Mamastrovirus_hominis
+blast_species	MAstV2 mamastrovirus_2 Mamastrovirus_felis
+blast_species	MAstV3 mamastrovirus_3 Mamastrovirus_suisorientalis
+blast_species	MAstV4 mamastrovirus_4 Mamastrovirus_zalophi
+blast_species	MAstV5 mamastrovirus_5 Mamastrovirus_canis
+blast_species	MAstV6 mamastrovirus_6 Mamastrovirus_melbournense
+blast_species	MAstV7 mamastrovirus_7 Mamastrovirus_tursiopis
+blast_species	MAstV8 mamastrovirus_8 Mamastrovirus_homustovis
+blast_species	MAstV9 mamastrovirus_9 Mamastrovirus_virginiaense
+blast_species	MAstV10 mamastrovirus_10 Mamastrovirus_mustelae
+blast_species	MAstV11 mamastrovirus_11 Mamastrovirus_californiani
+blast_species	MAstV12 mamastrovirus_12 Mamastrovirus_vespertilionis
+blast_species	MAstV13 mamastrovirus_13 Mamastrovirus_ovis
+blast_species	MAstV14 mamastrovirus_14 Mamastrovirus_miniopteri
+blast_species	MAstV15 mamastrovirus_15 Mamastrovirus_taphozoi
+blast_species	MAstV16 mamastrovirus_16 Mamastrovirus_pipistrelli
+blast_species	MAstV17 mamastrovirus_17 Mamastrovirus_hipposideri
+blast_species	MAstV18 mamastrovirus_18 Mamastrovirus_pusilli
+blast_species	MAstV19 mamastrovirus_19 Mamastrovirus_guangxiense
+blast_species	MAstV22 mamastrovirus_22 Mamastrovirus_suisencephalomyelitidis
+blast_species	MAstV26 mamastrovirus_26 Mamastrovirus_suisvulgaris
+blast_species	MAstV34 mamastrovirus_34 Mamastrovirus_rodentiamericaense
+blast_species	MAstV35 mamastrovirus_35 Mamastrovirus_rattorientalis
+blast_species	MAstV36 mamastrovirus_36 Mamastrovirus_bovisamericaense
+blast_species	MAstV37 mamastrovirus_37 Mamastrovirus_bubali
+blast_species	MAstV38 mamastrovirus_38 Mamastrovirus_bovisorientalis
+blast_species	MAstV39 mamastrovirus_39 Mamastrovirus_bovisencephalitidis
