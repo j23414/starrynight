@@ -130,5 +130,7 @@ curate:
     "note",
     "organism",
     "group",
-    "blast_species"
+    "blast_species",
+    "major_cluster",
+    "minor_cluster"
   ]
