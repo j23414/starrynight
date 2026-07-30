@@ -1,7 +1,7 @@
 # Phylogenetic
 
 ```bash
-# In production, use "nextflow run j23414/augument ..."
+# In production, use "nextflow run j23414/augment ..."
 # But since augment is under active development, run the local copy here
 nextflow run ~/github/j23414/augment/main.nf \
 --newick data/Astrovirus.WGS.ALL.aln.FastTree.nwk \
