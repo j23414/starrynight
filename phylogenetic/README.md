@@ -13,6 +13,8 @@ nextflow run ~/github/j23414/augment/main.nf \
 --export_args "--geo-resolutions region country " \
 --alignment data/Astrovirus.WGS.ALL.aln \
 --refine_args "--timetree --keep-polytomies" \
+--reference_gb "defaults/ref.gb" \
+--reference_fasta "defaults/ref.fasta" \
 --outdir results_wgs \
 -resume
 
@@ -67,6 +69,8 @@ nextflow run ~/github/j23414/augment/main.nf \
 --export_args "--geo-resolutions region country " \
 --alignment data/aln3.fna \
 --refine_args "--timetree --keep-polytomies" \
+--reference_gb "defaults/AStV-SC-3.gb" \
+--reference_fasta "defaults/AStV-SC-3.fasta" \
 --outdir results_3tree \
 -resume
 ```
