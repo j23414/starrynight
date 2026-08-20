@@ -131,6 +131,6 @@ curate:
     "organism",
     "group",
     "blast_species",
-    "major_cluster",
-    "minor_cluster"
+    "cluster",
+    "lineage"
   ]
