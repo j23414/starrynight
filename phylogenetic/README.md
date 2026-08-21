@@ -58,7 +58,7 @@ nextflow run ~/github/j23414/augment/main.nf \
 Build major-cluster-based trees for better alignment and gene annotations, and to evaluate minor-clusters:
 
 ```bash
-export NUM=2
+export NUM=1
 
 nextflow run ~/github/j23414/augment/main.nf \
 --newick data/aln/ALIGNMENTS/AStV-${NUM}.tre \
@@ -75,4 +75,25 @@ nextflow run ~/github/j23414/augment/main.nf \
 --auspice_config_json "defaults/auspice_config.json" \
 --description_md "defaults/description.md" \
 --conda_env "/Users/jchang99/.nextstrain/runtimes/conda/env"
+
+# Loop through clusters where n > 2
+for NUM in $(seq 1 62); do
+    nextflow run ~/github/j23414/augment/main.nf \
+        --metadata data/metadata.tsv \
+        --metadata_id_columns "accession_version" \
+        --metadata_annotate "strain date region country host host_category host_genus host_class host_order host_family host_broad_group is_lab_host note organism group blast_species cluster lineage" \
+        --metadata_color_order defaults/color_orderings.tsv \
+        --metadata_set_colors defaults/host_broad_group_colors.tsv \
+        --export_args "--geo-resolutions region country " \
+        --alignment data/aln/ALIGNMENTS/AStV-${NUM}.db.aln \
+        --refine_args "--timetree --keep-polytomies" \
+        --trait_columns "cluster lineage region country" \
+        --outdir results_AStV_${NUM} \
+        --auspice_config_json "defaults/auspice_config.json" \
+        --description_md "defaults/description.md" \
+        --conda_env "/Users/jchang99/.nextstrain/runtimes/conda/env"
+done
+
+
+
 ```
